@@ -88,7 +88,7 @@ bash
 Copy
 Edit
 git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
+git config --global user.email "my@email.com"
 Step 3: Create a GitHub Repository
 Log in to GitHub.
 
